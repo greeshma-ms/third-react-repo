@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/third-react-repo/static/css/main.a6416189.css",
+    "main.js": "/third-react-repo/static/js/main.64a55354.js",
+    "static/js/236.0ce08c68.chunk.js": "/third-react-repo/static/js/236.0ce08c68.chunk.js",
+    "static/js/703.fe69cce3.chunk.js": "/third-react-repo/static/js/703.fe69cce3.chunk.js",
+    "static/js/142.af45db65.chunk.js": "/third-react-repo/static/js/142.af45db65.chunk.js",
+    "static/js/787.28cb0dcd.chunk.js": "/third-react-repo/static/js/787.28cb0dcd.chunk.js",
+    "static/media/home.png": "/third-react-repo/static/media/home.a53606b4784186ce7951.png",
+    "index.html": "/third-react-repo/index.html",
+    "main.a6416189.css.map": "/third-react-repo/static/css/main.a6416189.css.map",
+    "main.64a55354.js.map": "/third-react-repo/static/js/main.64a55354.js.map",
+    "236.0ce08c68.chunk.js.map": "/third-react-repo/static/js/236.0ce08c68.chunk.js.map",
+    "703.fe69cce3.chunk.js.map": "/third-react-repo/static/js/703.fe69cce3.chunk.js.map",
+    "142.af45db65.chunk.js.map": "/third-react-repo/static/js/142.af45db65.chunk.js.map",
+    "787.28cb0dcd.chunk.js.map": "/third-react-repo/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a6416189.css",
+    "static/js/main.64a55354.js"
+  ]
+}
